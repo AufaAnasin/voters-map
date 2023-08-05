@@ -2,6 +2,11 @@
     padding: 274px 55px 274px 55px;
 }
 
+.blue-background {
+    height: 100vh;
+    width: 100vh;
+}
+
 .form-control.email-login {
     margin-bottom: 16px;
 }

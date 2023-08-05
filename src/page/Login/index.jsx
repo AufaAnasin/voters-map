@@ -24,7 +24,8 @@ function Login() {
                 </form>
               </div>
             </div>
-            <div className="col-6" style={{backgroundColor: "rgb(0, 27, 85)"}}>
+            <div className="col-6">
+              <div className="blue-background" style={{backgroundColor: "rgb(0, 27, 85)"}}/>
             </div>
         </div>
     </div>
